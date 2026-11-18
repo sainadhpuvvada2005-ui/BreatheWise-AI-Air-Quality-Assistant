@@ -1,0 +1,6 @@
+{
+  "name": "BreatheWise",
+  "description": "Your AI Air Quality Companion – helping families and communities understand air pollution, navigate severe smog, and build healthy low-emission routines.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
